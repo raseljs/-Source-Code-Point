@@ -1,0 +1,24 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="640" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#061A3D"/><stop offset="1" stop-color="#0E55B5"/></linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".18"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".08"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#00112E" flood-opacity=".26"/></filter>
+  </defs>
+  <rect width="640" height="360" rx="20" fill="url(#bg)"/>
+  <circle cx="560" cy="34" r="155" fill="#28B5FF" fill-opacity=".12"/>
+  <rect x="0" y="0" width="640" height="38" fill="#03132E" fill-opacity=".84"/>
+  <circle cx="19" cy="19" r="4" fill="#FF6D70"/><circle cx="33" cy="19" r="4" fill="#FFD15C"/><circle cx="47" cy="19" r="4" fill="#4ADE80"/>
+  <text x="67" y="23" fill="#BFD8FF" font-family="Arial" font-size="10" font-weight="700">Gadget BD • Admin Dashboard</text>
+  <rect x="14" y="51" width="96" height="295" rx="14" fill="#03132E" fill-opacity=".65"/>
+  <rect x="28" y="67" width="68" height="28" rx="8" fill="#2387FF"/><text x="42" y="85" fill="white" font-family="Arial" font-size="9" font-weight="700">OVERVIEW</text>
+  <g fill="#8EADDB"><rect x="30" y="115" width="12" height="12" rx="3"/><rect x="49" y="119" width="39" height="5" rx="2.5"/><rect x="30" y="148" width="12" height="12" rx="3"/><rect x="49" y="152" width="31" height="5" rx="2.5"/><rect x="30" y="181" width="12" height="12" rx="3"/><rect x="49" y="185" width="38" height="5" rx="2.5"/><rect x="30" y="214" width="12" height="12" rx="3"/><rect x="49" y="218" width="34" height="5" rx="2.5"/><rect x="30" y="247" width="12" height="12" rx="3"/><rect x="49" y="251" width="40" height="5" rx="2.5"/></g>
+  <text x="132" y="72" fill="white" font-family="Arial" font-size="18" font-weight="800">Business Overview</text><text x="132" y="89" fill="#A8C9F6" font-family="Arial" font-size="9">Live e-commerce performance</text>
+  <g filter="url(#shadow)"><rect x="132" y="106" width="145" height="65" rx="12" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".12"/><rect x="290" y="106" width="145" height="65" rx="12" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".12"/><rect x="448" y="106" width="166" height="65" rx="12" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".12"/></g>
+  <text x="146" y="126" fill="#A8C9F6" font-family="Arial" font-size="8" font-weight="700">TOTAL ORDERS</text><text x="146" y="153" fill="white" font-family="Arial" font-size="22" font-weight="800">1,284</text><text x="235" y="151" fill="#68F0B0" font-family="Arial" font-size="8" font-weight="700">+18%</text>
+  <text x="304" y="126" fill="#A8C9F6" font-family="Arial" font-size="8" font-weight="700">TOTAL SALES</text><text x="304" y="153" fill="white" font-family="Arial" font-size="22" font-weight="800">৳94K</text><text x="393" y="151" fill="#68F0B0" font-family="Arial" font-size="8" font-weight="700">+24%</text>
+  <text x="462" y="126" fill="#A8C9F6" font-family="Arial" font-size="8" font-weight="700">CUSTOMERS</text><text x="462" y="153" fill="white" font-family="Arial" font-size="22" font-weight="800">2,410</text><text x="565" y="151" fill="#68F0B0" font-family="Arial" font-size="8" font-weight="700">+12%</text>
+  <rect x="132" y="187" width="303" height="146" rx="14" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="149" y="211" fill="white" font-family="Arial" font-size="11" font-weight="700">Sales Analytics</text>
+  <path d="M151 299C178 285 191 291 214 267C238 242 255 273 279 247C303 222 322 239 345 211C365 190 389 217 415 197" stroke="#4DE3FF" stroke-width="4" stroke-linecap="round"/><path d="M151 299C178 285 191 291 214 267C238 242 255 273 279 247C303 222 322 239 345 211C365 190 389 217 415 197V319H151V299Z" fill="#29B8FF" fill-opacity=".12"/>
+  <rect x="448" y="187" width="166" height="146" rx="14" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".12"/><text x="465" y="211" fill="white" font-family="Arial" font-size="11" font-weight="700">Recent Orders</text>
+  <g fill="#C5DBF8"><rect x="465" y="230" width="25" height="25" rx="7"/><rect x="500" y="233" width="67" height="6" rx="3"/><rect x="500" y="245" width="45" height="4" rx="2" fill-opacity=".55"/><rect x="465" y="269" width="25" height="25" rx="7"/><rect x="500" y="272" width="72" height="6" rx="3"/><rect x="500" y="284" width="39" height="4" rx="2" fill-opacity=".55"/></g>
+</svg>
